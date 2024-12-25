@@ -1,0 +1,20 @@
+                                       Student Performance Dashboard
+
+Overview
+
+This interactive dashboard provides insights into student performance, 
+enabling educators and administrators to track key metrics, identify trends
+ and make data-driven decisions.
+
+Features :
+
+Total Students:
+              View the total number of students in the dataset.
+Demographics:
+     Analyze student demographics, including:
+        1. Male and Female Students: View the distribution of male and female students.
+        2. Level of Education: Examine student performance by level of education (e.g., associative degree,masster degree , high school).
+        3. Grade: Track student performance by grade level.
+        4. Race/Ethnicity: View student demographics by race and ethnicity.
+        5. Scores: Evaluate student performance based on test scores.
+        6. Test Score Analysis: Analyze test scores by subject, grade level, and demographic groups.
